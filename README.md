@@ -106,9 +106,14 @@ This system can be adapted for:
 
 ## 📸 Demo Preview
 
-(Add screenshots below)
+
 
 <img src="demo-screenshots/voice-interaction.png" width="800">
+<img src="demo-screenshots/movie-suggestions.png" width="800">
+
+<img src="demo-screenshots/booking-flow.png" width="800">
+<img src="demo-screenshots/confirmation-message.png" width="800">
+
 
 ---
 
