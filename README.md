@@ -129,6 +129,9 @@ This project demonstrates:
 
 ---
 
+🎥 Live Demo
+🔗 https://Happyautomate.replit.app
+
 ## 📩 Contact
 
 Gurpreet Singh  
